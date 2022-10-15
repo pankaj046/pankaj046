@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pankaj046
-- 👀 I’m interested in Androi Application Development
+- 👀 I’m interested in Android Application Development
 - 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on Android app 
 - 📫 How to reach me pankaj_046@yahoo.in
