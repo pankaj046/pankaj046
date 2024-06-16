@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <h3 align="center">A passionate Android Application developer from India</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pankaj046&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj046" />
 </p>
-
 
 - 🌱 I’m currently learning **Spring Boot**
 - 📫 How to reach me: **dev.pankaj046@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://dev.to/pankaj046" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pankaj046" height="30" width="40" />
   </a>
@@ -20,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a>
@@ -86,14 +85,14 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj046&show_icons=true&locale=en&layout=compact" alt="pankaj046" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj046&show_icons=true&locale=en&layout=compact" alt="pankaj046" />
+</div>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj046&show_icons=true&locale=en" alt="pankaj046" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj046&show_icons=true&locale=en" alt="pankaj046" />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj046&" alt="pankaj046" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj046&" alt="pankaj046" />
+</div>
