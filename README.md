@@ -37,29 +37,6 @@ class AndroidEngineer {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏦 Fintech App
-Android banking-style app with authentication, transaction history, REST integration, and clean architecture.
-
-**Tech Stack:** Kotlin, MVVM, Retrofit, Firebase
-
----
-
-### 🛒 E-Commerce App
-Modern UI built using Jetpack Compose with cart, checkout, and payment flow.
-
-**Tech Stack:** Jetpack Compose, Room, REST APIs
-
----
-
-### 🔐 Authentication System
-Secure JWT-based authentication with token refresh and session management.
-
-**Tech Stack:** Spring Boot, PostgreSQL, JWT
-
----
-
 ## 🛠 Tech Stack
 
 ### 📱 Mobile Development
