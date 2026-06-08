@@ -1,101 +1,58 @@
-# Hi, I'm Pankaj 👋
-
-**Android Engineer** | **Kotlin Enthusiast** | **Backend Learner**
-
-Building scalable mobile apps with clean architecture and great user experiences.
-
----
-
-## 🧑‍💻 About Me
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=1D9E75&width=500&lines=Hi%2C+I'm+Pankaj+%F0%9F%91%8B;Android+Engineer+%7C+Kotlin+Enthusiast;Building+apps+that+just+work." alt="Typing SVG" />
+</h1>
 
 ```kotlin
-class AndroidEngineer {
-    val name = "Pankaj Sharma"
-    val location = "India 🇮🇳"
-    
-    val expertise = listOf(
-        "Android (Kotlin)",
-        "Jetpack Compose",
-        "Clean Architecture",
-        "REST APIs",
-        "MVVM"
-    )
-    
-    val currentlyLearning = "Spring Boot & System Design"
-    
-    fun mission() = "Build impactful apps with great UX and solid architecture"
+class Pankaj {
+    val role      = "Android Engineer"
+    val location  = "India 🇮🇳"
+    val stack     = listOf("Kotlin", "Jetpack Compose", "Clean Architecture", "MVVM")
+    val learning  = "Spring Boot + System Design"
+    fun mission() = "Ship great UX backed by solid architecture"
 }
 ```
 
-### What I Do
+---
 
-- 📱 Build modern Android apps using **Kotlin & Jetpack Compose**
-- 🏗️ Architect scalable apps with **Clean Architecture + MVVM**
-- 🔌 Integrate secure REST APIs with robust error handling
-- 🚀 Optimize performance & enhance user experience
-- 🌱 Expanding into backend development with **Spring Boot**
+### What I do
+
+- 📱 Build modern Android apps with **Kotlin & Jetpack Compose**
+- 🏗 Architect scalable, testable apps using **Clean Architecture + MVVM**
+- 🔌 Integrate REST APIs with proper error handling, retry logic, and security
+- ⚡ Obsess over performance — smooth scrolling, minimal recompositions, low crash rates
+- 🌱 Growing into backend with **Spring Boot, PostgreSQL, and Docker**
 
 ---
 
-## 🛠 Tech Stack
+### Tech stack
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ⚙️ Backend & Database
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Mobile | Backend | DevOps |
+|--------|---------|--------|
+| Android · Kotlin · Jetpack Compose | Spring Boot · PostgreSQL · MongoDB | Docker · AWS · Linux |
+| Firebase · Retrofit · Room | REST APIs · JWT Auth | Git · CI/CD |
 
 ---
 
-## 🧠 Currently Building
+### Currently building
 
-- 🔐 Secure authentication system with JWT
+- 🔐 JWT-based secure authentication system
 - 📊 Real-time analytics dashboard
-- ⚡ Modular Android architecture template
+- 🧩 Reusable modular Android architecture template
 
 ---
 
-## 📈 What Makes Me Different
+### By the numbers
 
-- ✅ Strong focus on **architecture & clean code**
-- ✅ Real-world API integrations with error handling
-- ✅ Performance optimization mindset
-- ✅ Learning backend to become **Full-Stack Mobile Engineer**
-- ✅ Continuous learner & builder
+| 15+ projects | 10K+ lines of Kotlin | 99% crash-free |
+|:---:|:---:|:---:|
+| shipped & maintained | in production | on latest release |
 
 ---
 
-## 📊 Metrics
+### Connect
 
-- **15+** Android projects completed
-- **10K+** lines of production Kotlin code
-- **99%** crash-free sessions in latest release
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj046)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.pankaj046@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/pankaj046)
 
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj046)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.pankaj046@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/pankaj046)
-
----
-
-<div align="center">
-  
-**💡 Open to collaboration on Android & Spring Boot projects**
-
-⭐ Feel free to explore my repositories and reach out for opportunities!
-
-</div>
+> Open to collaboration on Android & Spring Boot projects. Feel free to explore my repos and reach out.
